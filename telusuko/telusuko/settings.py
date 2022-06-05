@@ -27,7 +27,7 @@ SECRET_KEY = '0cdt+&ih8mhm*0q%7g&+_1jhf88#+0m9akwxn#e#wqpihptlwp'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['jntuh-results.herokuapp.com','127.0.0.1']
 
 
 # Application definition
