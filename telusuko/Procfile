@@ -1,1 +1,1 @@
-web: gunicorn TELUSUKO.wsgi --log-file -
+web: gunicorn jntuh-results.wsgi --log-file -
